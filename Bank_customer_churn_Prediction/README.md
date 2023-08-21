@@ -6,7 +6,8 @@ Predicting customer churn is crucial for businesses, especially in the banking s
 
 **Dataset Source:** [Bank Customer Churn Modeling](https://www.kaggle.com/datasets/barelydedicated/bank-customer-churn-modeling)
 
-[Kaggle](https://www.kaggle.com/code/prozorovpro/bank-customer-churn-prediction/notebook?scriptVersionId=140535064)
+
+Notebook on [Kaggle](https://www.kaggle.com/code/prozorovpro/bank-customer-churn-prediction/notebook?scriptVersionId=140535064)
 
 ## Objective
 
